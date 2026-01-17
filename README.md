@@ -28,4 +28,6 @@ Things may change or break as features are added or adjusted.
 ## Disclaimer
 
 This project is intended for educational and research purposes only.  
-Use of this software is entirely at your own risk.
+Use of this software is entirely at your own risk.  
+
+For questions or updates, join my Discord: https://discord.gg/bG8ASsGfg5
